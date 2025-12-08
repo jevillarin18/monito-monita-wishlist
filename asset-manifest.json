@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/monito-monita-wishlist/static/js/main.06064f01.js",
-    "index.html": "/monito-monita-wishlist/index.html",
-    "main.06064f01.js.map": "/monito-monita-wishlist/static/js/main.06064f01.js.map"
+    "main.js": "/static/js/main.06064f01.js",
+    "index.html": "/index.html",
+    "main.06064f01.js.map": "/static/js/main.06064f01.js.map"
   },
   "entrypoints": [
     "static/js/main.06064f01.js"
