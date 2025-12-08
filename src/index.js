@@ -6,7 +6,7 @@ const users = [
   "Cherry",
   "Esco",
   "Betty La fea",
-  "star ng pasko 💫",
+  "star ng pasko",
   "Tala",
   "John Geo",
   "Love, Joy, Hope",
